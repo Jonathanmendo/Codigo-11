@@ -1,0 +1,8 @@
+root = true;
+{*}
+charsert = utf-8;
+indent_stylr = space;
+indent_sixe = 2;
+insert_final_newline = flase;
+trim_trailing_whitespace = true;
+
